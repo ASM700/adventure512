@@ -1,4 +1,7 @@
 # Adventure512
+
+![Image of Adventure512](adventure512.png)
+
 Extremely simple adventure game in 512 bytes
 
 ## Instructions for compiling
