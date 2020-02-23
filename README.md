@@ -18,6 +18,7 @@ For now, since this is 1-room, these just say "Ow!" because you bonk into a wall
 For now, there is only one object, a key. You can type `take key` and `drop key`. The description changes from
 
 `Entrance
+
 A key is here`
 
 to just
